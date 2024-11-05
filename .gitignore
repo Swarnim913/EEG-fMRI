@@ -6,3 +6,5 @@ mrienv
 .DS_Store
 .venv
 training_data
+.vscode
+output_training
