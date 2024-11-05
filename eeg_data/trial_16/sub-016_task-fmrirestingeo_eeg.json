@@ -1,0 +1,19 @@
+{
+	"ECGChannelCount": 1,
+	"EEGChannelCount": 32,
+	"EEGReference": "Cz",
+	"EMGChannelCount": 0,
+	"EOGChannelCount": 0,
+	"EpochLength": 141.327,
+	"InstitutionAddress": "Blvd. Juriquilla 3001, Juriquilla, Santiago de Queretaro, Queretaro, 76230, Mexico",
+	"InstitutionName": "Universidad Nacional Autonoma de Mexico",
+	"InstitutionalDepartmentName": "Instituto de Neurobiologia",
+	"MiscChannelCount": 0,
+	"PowerLineFrequency": 60,
+	"RecordingDuration": 141.327,
+	"SamplingFrequency": 1000,
+	"SoftwareFilters": "n/a",
+	"TaskDescription": "Eyes closed and eyes open EEG data recorded outside the MR environment, inside the scanner without image acquisition and during simultaneous fMRI acquisition",
+	"TaskName": "fmrirestingeo",
+	"TriggerChannelCount": 0
+}
