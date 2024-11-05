@@ -3,3 +3,4 @@ myenv
 output
 __pycache__
 mrienv
+.DS_Store
