@@ -1,0 +1,4 @@
+nilearn
+nibabel
+scikit-image
+numpy
